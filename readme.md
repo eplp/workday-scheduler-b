@@ -1,1 +1,1 @@
-# Workday Scheduler with JQuery
+# Work Day Scheduler Starter Code
